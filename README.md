@@ -8,4 +8,4 @@
  [Link cặt đăt phiên bản 64bit (x64)](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-setup.exe/download)
  [Link cài đặt phiên bản 32bit (x86)](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/32bit/codeblocks-20.03mingw-32bit-setup.exe/download)
  
- 3. Hướng dẫn cài đặt debug: [Link](yonashi.me/image/debugCodeblock.mht)
+ 3. Hướng dẫn cài đặt debug: [Link](image/debugCodeblock.mht)
