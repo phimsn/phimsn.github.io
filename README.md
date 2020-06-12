@@ -11,3 +11,4 @@
  
  4. Hướng dẫn cài đặt debug: [Link](yonashi.me/image/debugCodeblock.mht)
  5. Hướng dẫn tạo Project mới: [Link](image/Create_Project.mht)
+ 6. [Các bài học](/baihoc)
